@@ -2,5 +2,7 @@ package main
 
 func main() {
 	// fairThreadDemo()
-	threadSafeDemo()
+	// threadSafeDemo()
+	// threadPoolDemo()
+	contextDemo()
 }
